@@ -1,0 +1,6 @@
+method,last50_avg_return,last50_avg_best_yield_pct,eval_best_yield_pct
+Q-Learning (train),24.051,91.95,91.75
+Random,4.016,58.59,
+Heuristic hill-climbing,24.837,90.10,
+True grid optimum,,,88.95
+Agent favourite setting,Temp=60C,Conc=1.1M,
